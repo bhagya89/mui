@@ -17,6 +17,7 @@ function customColor(){
     <>
     <div className='App'>
       <h1>React-MUI</h1>
+      <h1>hiuwehishd</h1>
       <button>click me</button>
       <Button color={color}
       disabled={disableBtn}
